@@ -133,6 +133,12 @@ public class TestExecution extends HelperClass{
 	}
 	
 	
+	private void suriya() {
+		
+		System.out.println("sample code for Suriya");
+
+	}
+	
 	
 	
 	
