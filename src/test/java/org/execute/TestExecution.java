@@ -133,13 +133,20 @@ public class TestExecution extends HelperClass{
 	}
 	
 	
+<<<<<<< HEAD
 	private void suriya() {
 		
 		System.out.println("sample code for Suriya");
 
 	}
 	
+=======
+	private void abinaya() {
+>>>>>>> 567a0654b333d1a8fa06e3bd5f7e050ceb2166fe
 	
+		System.out.println("Sample for Git");
+
+	}
 	
 	
 	
